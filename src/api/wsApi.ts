@@ -1,7 +1,7 @@
 //wss://localhost:5000/
 import {UserType} from './api';
 
-const url = 'wss://git.heroku.com/project-game-server.git/';
+const url = 'wss://project-game-server.herokuapp.com/';
 
 export const wsApi = {
     createSocket() {

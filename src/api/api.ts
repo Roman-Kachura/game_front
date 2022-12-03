@@ -2,7 +2,7 @@ import axios, {AxiosResponse} from 'axios';
 
 //'https://game-server.romankachura.amvera.io'
 const $api = axios.create({
-    baseURL: 'https://git.heroku.com/project-game-server.git/'
+    baseURL: 'https://project-game-server.herokuapp.com/'
 });
 
 export const api = {
