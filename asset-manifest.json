@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game_front/static/css/main.49383bd1.css",
+    "main.js": "/game_front/static/js/main.fd7cfe8d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/game_front/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/game_front/index.html",
+    "main.49383bd1.css.map": "/game_front/static/css/main.49383bd1.css.map",
+    "main.fd7cfe8d.js.map": "/game_front/static/js/main.fd7cfe8d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/game_front/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49383bd1.css",
+    "static/js/main.fd7cfe8d.js"
+  ]
+}
